@@ -1,0 +1,38 @@
+[
+  {
+    "serverId": "server-01",
+    "serverName": "GuardBot Pro HQ",
+    "ownerName": "Admin",
+    "memberCount": 12543,
+    "botStatus": "online",
+    "premiumTier": "enterprise",
+    "protectionEnabled": true,
+    "moderationEnabled": true,
+    "aiEnabled": true,
+    "ticketsEnabled": true
+  },
+  {
+    "serverId": "server-02",
+    "serverName": "Community Gamers",
+    "ownerName": "GamerX",
+    "memberCount": 8765,
+    "botStatus": "online",
+    "premiumTier": "premium",
+    "protectionEnabled": true,
+    "moderationEnabled": true,
+    "aiEnabled": false,
+    "ticketsEnabled": true
+  },
+  {
+    "serverId": "server-03",
+    "serverName": "Test Server",
+    "ownerName": "Dev",
+    "memberCount": 15,
+    "botStatus": "offline",
+    "premiumTier": "free",
+    "protectionEnabled": false,
+    "moderationEnabled": true,
+    "aiEnabled": false,
+    "ticketsEnabled": false
+  }
+]
