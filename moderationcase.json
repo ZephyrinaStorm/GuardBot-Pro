@@ -1,0 +1,36 @@
+[
+  {
+    "serverId": "server-01",
+    "caseId": "case-101",
+    "userId": "user-123",
+    "username": "Spammer_McSpam",
+    "moderatorId": "mod-001",
+    "moderatorName": "Admin",
+    "action": "ban",
+    "reason": "Persistent spamming and advertising.",
+    "status": "active"
+  },
+  {
+    "serverId": "server-02",
+    "caseId": "case-102",
+    "userId": "user-456",
+    "username": "RudeDude",
+    "moderatorId": "mod-002",
+    "moderatorName": "SuperMod",
+    "action": "mute",
+    "duration": "24h",
+    "reason": "Excessive toxicity in general chat.",
+    "status": "active"
+  },
+  {
+    "serverId": "server-01",
+    "caseId": "case-103",
+    "userId": "user-789",
+    "username": "Linky",
+    "moderatorId": "mod-001",
+    "moderatorName": "Admin",
+    "action": "warn",
+    "reason": "Posting unauthorized links.",
+    "status": "active"
+  }
+]
