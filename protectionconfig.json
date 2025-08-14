@@ -1,0 +1,16 @@
+[
+  {
+    "serverId": "server-01",
+    "antiLink": true,
+    "antiRaid": true,
+    "antiNuke": true,
+    "antiScam": true,
+    "antiAlt": false,
+    "antiNewAccount": true,
+    "antiSpam": true,
+    "antiWebhook": true,
+    "newAccountAge": 14,
+    "raidThreshold": 5,
+    "spamThreshold": 7
+  }
+]
