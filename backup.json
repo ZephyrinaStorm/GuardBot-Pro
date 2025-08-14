@@ -1,0 +1,18 @@
+[
+  {
+    "serverId": "server-01",
+    "backupId": "bkp-001",
+    "name": "Weekly Backup 2023-10-26",
+    "description": "Automated weekly backup",
+    "size": "42.17 MB",
+    "status": "completed"
+  },
+  {
+    "serverId": "server-02",
+    "backupId": "bkp-002",
+    "name": "Pre-Pruning Backup",
+    "description": "Manual backup before channel pruning",
+    "size": "28.50 MB",
+    "status": "completed"
+  }
+]
