@@ -1,0 +1,37 @@
+[
+  {
+    "serverId": "server-01",
+    "ticketId": "tkt-001",
+    "userId": "user-abc",
+    "username": "HelpfulHenry",
+    "subject": "Question about rules",
+    "description": "Can I post a link to my portfolio?",
+    "category": "general",
+    "priority": "low",
+    "status": "closed",
+    "assignedTo": "Admin"
+  },
+  {
+    "serverId": "server-02",
+    "ticketId": "tkt-002",
+    "userId": "user-def",
+    "username": "BugFinder",
+    "subject": "Bot command not working",
+    "description": "The /kick command is giving an error.",
+    "category": "technical",
+    "priority": "high",
+    "status": "in_progress",
+    "assignedTo": "Dev"
+  },
+  {
+    "serverId": "server-01",
+    "ticketId": "tkt-003",
+    "userId": "user-ghi",
+    "username": "AppealingAndy",
+    "subject": "Appeal for mute",
+    "description": "I was muted and I would like to appeal.",
+    "category": "appeal",
+    "priority": "medium",
+    "status": "open"
+  }
+]
