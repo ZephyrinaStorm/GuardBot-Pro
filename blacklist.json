@@ -1,0 +1,23 @@
+[
+  {
+    "serverId": "global",
+    "type": "word",
+    "value": "badword123",
+    "reason": "Common offensive term",
+    "addedBy": "System"
+  },
+  {
+    "serverId": "global",
+    "type": "domain",
+    "value": "scam-site.com",
+    "reason": "Known phishing domain",
+    "addedBy": "Admin"
+  },
+  {
+    "serverId": "global",
+    "type": "user",
+    "value": "123456789012345678",
+    "reason": "Known raid bot account",
+    "addedBy": "SuperMod"
+  }
+]
